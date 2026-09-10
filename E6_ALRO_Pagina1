@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina 1 etiqueta a</title>
+</head>
+<body>
+    <h1>Lucia Ramos</h1>
+    <h2>Pagina Principal</h2>
+    <a href = "E6_Pagina2.html">Noticias</a>
+</body>
+</html>
