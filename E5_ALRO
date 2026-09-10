@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Etiqueta Negrita y Cursiva</title>
+</head>
+<body>
+    <p><strong>Tipos de datos</strong></p>
+    <p><em>TEXTO</em> : Para alamacenar texto usamos cadenas de caracteres.
+    Las cadenas se colocan entre comillas simples. Podemos almacenar digitos con los que no
+se realizan operaciones matemáticas, por ejemplo, códigos de identificación,números de 
+documentos, números telefonicos.Tenemos los siguientes tipos: varchar, char y text.</p>
+<p><em>NUMEROS</em> : Existe variedad de tipos numéricos para representar
+enteros, negativos, decimales. Para almacenar valores enteros, por ejemplo, en campos que
+hacen referencia a cantidades, precios, etc., usamos el tipo integer.Para almacenar valores
+con decimales utilizados: float o decimal.</p>
+<p><em> FECHAS Y HORAS</em> : </p>
+</body>
+</html>
